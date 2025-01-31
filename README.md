@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/925059335.svg)](https://doi.org/10.5281/zenodo.14777073)
+
 # GraphATA
 Aggregate to Adapt: Node-Centric Aggregation for Multi-Source-Free Graph Domain Adaptation (WWW-2025).
 
