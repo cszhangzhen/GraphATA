@@ -49,5 +49,6 @@ If you find GraphATA useful for your research, please consider citing the follow
   booktitle={Proceedings of the ACM on Web Conference 2025},
   pages={4420--4431},
   year={2025}
-}```
+}
+```
 
