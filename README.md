@@ -39,3 +39,15 @@ Then, execuate the following command for adaptation:
 ```
 python train_target_graph.py
 ```
+
+## Citing
+If you find GraphATA useful for your research, please consider citing the following paper:
+```
+@inproceedings{zhang2025aggregate,
+  title={Aggregate to Adapt: Node-Centric Aggregation for Multi-Source-Free Graph Domain Adaptation},
+  author={Zhang, Zhen and He, Bingsheng},
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  pages={4420--4431},
+  year={2025}
+}```
+
